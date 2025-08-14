@@ -23,7 +23,7 @@ During the packet capture, several different protocols were identified. Below is
 * **HTTP (Hypertext Transfer Protocol):** Because an unencrypted website was visited, it was possible to filter for and inspect the raw HTTP traffic. This allowed for the observation of the `GET` request sent from the client to the server to fetch the webpage content.
 
 ## Evidence: Screenshots
-The screenshots below document the live capture and analysis process in Wireshark. Sensitive information such as public IP addresses has been redacted.
+The screenshots below document the live capture and analysis process in Wireshark.
 
 ### Wireshark Capture Dashboard
 ![Wireshark Capture](network_packetss.jpg)
